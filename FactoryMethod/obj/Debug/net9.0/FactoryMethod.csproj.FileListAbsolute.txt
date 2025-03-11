@@ -1,0 +1,14 @@
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\bin\Debug\net9.0\FactoryMethod.exe
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\bin\Debug\net9.0\FactoryMethod.deps.json
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\bin\Debug\net9.0\FactoryMethod.runtimeconfig.json
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\bin\Debug\net9.0\FactoryMethod.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\bin\Debug\net9.0\FactoryMethod.pdb
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\FactoryMethod.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\refint\FactoryMethod.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\FactoryMethod.pdb
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\FactoryMethod\obj\Debug\net9.0\ref\FactoryMethod.dll

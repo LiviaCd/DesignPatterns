@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\factory\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:factory\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\factory\\asuscreatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:factory\\asuscreatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\factory\\sonycreatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:factory\\sonycreatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\core\\laptop\\asuslaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:core\\laptop\\asuslaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\core\\laptop\\sonylaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:core\\laptop\\sonylaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\core\\laptop\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:core\\laptop\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\core\\mobile\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:core\\mobile\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\core\\mobile\\sonymobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:core\\mobile\\sonymobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\abstractfactory\\core\\mobile\\asusmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E3DC24C-A8C1-40D7-8CEE-444092CC0067}|AbstractFactory.csproj|solutionrelative:core\\mobile\\asusmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsusCreateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Factory\\AsusCreateFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\AsusCreateFactory.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Factory\\AsusCreateFactory.cs",
+              "RelativeToolTip": "Factory\\AsusCreateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:49:06.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Mobile.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Mobile\\Mobile.cs",
+              "RelativeDocumentMoniker": "Core\\Mobile\\Mobile.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Mobile\\Mobile.cs",
+              "RelativeToolTip": "Core\\Mobile\\Mobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:45:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Factory\\IDevice.cs",
+              "RelativeDocumentMoniker": "Factory\\IDevice.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Factory\\IDevice.cs*",
+              "RelativeToolTip": "Factory\\IDevice.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:43:57.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Laptop\\Laptop.cs",
+              "RelativeDocumentMoniker": "Core\\Laptop\\Laptop.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Laptop\\Laptop.cs",
+              "RelativeToolTip": "Core\\Laptop\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:44:48.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SonyLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Laptop\\SonyLaptop.cs",
+              "RelativeDocumentMoniker": "Core\\Laptop\\SonyLaptop.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Laptop\\SonyLaptop.cs",
+              "RelativeToolTip": "Core\\Laptop\\SonyLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:54:52.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AsusLaptop.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Laptop\\AsusLaptop.cs",
+              "RelativeDocumentMoniker": "Core\\Laptop\\AsusLaptop.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Laptop\\AsusLaptop.cs",
+              "RelativeToolTip": "Core\\Laptop\\AsusLaptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:45:37.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SonyMobile.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Mobile\\SonyMobile.cs",
+              "RelativeDocumentMoniker": "Core\\Mobile\\SonyMobile.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Mobile\\SonyMobile.cs",
+              "RelativeToolTip": "Core\\Mobile\\SonyMobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:01:22.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:41:55.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SonyCreateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Factory\\SonyCreateFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\SonyCreateFactory.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Factory\\SonyCreateFactory.cs",
+              "RelativeToolTip": "Factory\\SonyCreateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:57:48.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsusMobile.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Mobile\\AsusMobile.cs",
+              "RelativeDocumentMoniker": "Core\\Mobile\\AsusMobile.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\AbstractFactory\\Core\\Mobile\\AsusMobile.cs",
+              "RelativeToolTip": "Core\\Mobile\\AsusMobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:00:01.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\prototype\\core\\mario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|solutionrelative:core\\mario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\prototype\\core\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|solutionrelative:core\\dragon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\prototype\\core\\creatureprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|solutionrelative:core\\creatureprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\prototype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\prototype\\additional\\readearcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B37DD0-B8AB-4B30-862B-565FD992D68C}|Prototype.csproj|solutionrelative:additional\\readearcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadearCreature.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Additional\\ReadearCreature.cs",
+              "RelativeDocumentMoniker": "Additional\\ReadearCreature.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Additional\\ReadearCreature.cs",
+              "RelativeToolTip": "Additional\\ReadearCreature.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:05:18.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mario.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Core\\Mario.cs",
+              "RelativeDocumentMoniker": "Core\\Mario.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Core\\Mario.cs",
+              "RelativeToolTip": "Core\\Mario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:01:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dragon.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Core\\Dragon.cs",
+              "RelativeDocumentMoniker": "Core\\Dragon.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Core\\Dragon.cs",
+              "RelativeToolTip": "Core\\Dragon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:01:08.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreaturePrototype.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Core\\CreaturePrototype.cs",
+              "RelativeDocumentMoniker": "Core\\CreaturePrototype.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Core\\CreaturePrototype.cs",
+              "RelativeToolTip": "Core\\CreaturePrototype.cs",
+              "ViewState": "AgIAAAUAAAAAaoLxVmXPvw4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:00:53.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Prototype\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:27:19.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\factory\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:factory\\notificationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\factory\\smscreatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:factory\\smscreatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\factory\\emailcreatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:factory\\emailcreatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\core\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:core\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\core\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:core\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\core\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:core\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\core\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:core\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\factorymethod\\factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3A152CE-1E35-4535-906C-7A240107DC95}|FactoryMethod.csproj|solutionrelative:factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Core\\INotification.cs",
+              "RelativeDocumentMoniker": "Core\\INotification.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Core\\INotification.cs",
+              "RelativeToolTip": "Core\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:14:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Core\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Core\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Core\\EmailNotification.cs",
+              "RelativeToolTip": "Core\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:15:34.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmsCreateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Factory\\SmsCreateFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\SmsCreateFactory.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Factory\\SmsCreateFactory.cs",
+              "RelativeToolTip": "Factory\\SmsCreateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:24:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Core\\NotificationType.cs",
+              "RelativeDocumentMoniker": "Core\\NotificationType.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Core\\NotificationType.cs",
+              "RelativeToolTip": "Core\\NotificationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:04:04.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Factory\\NotificationFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\NotificationFactory.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Factory\\NotificationFactory.cs",
+              "RelativeToolTip": "Factory\\NotificationFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:40:19.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:24:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailCreateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Factory\\EmailCreateFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\EmailCreateFactory.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Factory\\EmailCreateFactory.cs",
+              "RelativeToolTip": "Factory\\EmailCreateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:23:19.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Core\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "Core\\SmsNotification.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\Core\\SmsNotification.cs",
+              "RelativeToolTip": "Core\\SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:16:08.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FactoryMethod.csproj",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\FactoryMethod.csproj",
+              "RelativeDocumentMoniker": "FactoryMethod.csproj",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\FactoryMethod\\FactoryMethod.csproj",
+              "RelativeToolTip": "FactoryMethod.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T21:14:28.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
