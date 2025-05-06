@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\builder classic\\builder\\bikebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|solutionrelative:builder\\bikebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\builder classic\\builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|solutionrelative:builder\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\builder classic\\builder\\vehiclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|solutionrelative:builder\\vehiclebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\builder classic\\director\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|solutionrelative:director\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\builder classic\\product\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|solutionrelative:product\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\builder classic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6907977-EC7D-4CD7-B055-63BEA7BEC2FA}|Builder Classic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BikeBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Builder\\BikeBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\BikeBuilder.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Builder\\BikeBuilder.cs",
+              "RelativeToolTip": "Builder\\BikeBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:53:30.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Builder\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\CarBuilder.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Builder\\CarBuilder.cs",
+              "RelativeToolTip": "Builder\\CarBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:51:40.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Director\\Shop.cs",
+              "RelativeDocumentMoniker": "Director\\Shop.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Director\\Shop.cs",
+              "RelativeToolTip": "Director\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:08:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Builder\\VehicleBuilder.cs",
+              "RelativeDocumentMoniker": "Builder\\VehicleBuilder.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Builder\\VehicleBuilder.cs",
+              "RelativeToolTip": "Builder\\VehicleBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:46:25.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Product\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Product\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Product\\Vehicle.cs",
+              "RelativeToolTip": "Product\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:46:00.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Builder Classic\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:45:27.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

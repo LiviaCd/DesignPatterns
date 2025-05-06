@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\bridge\\mailbox\\viewmailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|solutionrelative:mailbox\\viewmailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\bridge\\notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|solutionrelative:notification\\emailnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\bridge\\notification\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|solutionrelative:notification\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\bridge\\notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|solutionrelative:notification\\smsnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\bridge\\mailbox\\longviewmailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|solutionrelative:mailbox\\longviewmailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\bridge\\mailbox\\shortviewmailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|solutionrelative:mailbox\\shortviewmailbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1384F01-78B5-4332-A163-F52820A127EF}|Bridge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LongViewMailbox.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Mailbox\\LongViewMailbox.cs",
+              "RelativeDocumentMoniker": "Mailbox\\LongViewMailbox.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Mailbox\\LongViewMailbox.cs",
+              "RelativeToolTip": "Mailbox\\LongViewMailbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:45:20.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShortViewMailbox.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Mailbox\\ShortViewMailbox.cs",
+              "RelativeDocumentMoniker": "Mailbox\\ShortViewMailbox.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Mailbox\\ShortViewMailbox.cs",
+              "RelativeToolTip": "Mailbox\\ShortViewMailbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:40:34.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewMailbox.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Mailbox\\ViewMailbox.cs",
+              "RelativeDocumentMoniker": "Mailbox\\ViewMailbox.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Mailbox\\ViewMailbox.cs",
+              "RelativeToolTip": "Mailbox\\ViewMailbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:32:48.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Notification\\INotification.cs",
+              "RelativeDocumentMoniker": "Notification\\INotification.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Notification\\INotification.cs",
+              "RelativeToolTip": "Notification\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:16:29.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Notification\\SmsNotification.cs",
+              "RelativeDocumentMoniker": "Notification\\SmsNotification.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Notification\\SmsNotification.cs",
+              "RelativeToolTip": "Notification\\SmsNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:12:19.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailNotification.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Notification\\EmailNotification.cs",
+              "RelativeDocumentMoniker": "Notification\\EmailNotification.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Notification\\EmailNotification.cs",
+              "RelativeToolTip": "Notification\\EmailNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:42:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Bridge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:05:44.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

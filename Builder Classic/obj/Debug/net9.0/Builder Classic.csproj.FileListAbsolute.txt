@@ -1,0 +1,14 @@
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\bin\Debug\net9.0\Builder Classic.exe
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\bin\Debug\net9.0\Builder Classic.deps.json
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\bin\Debug\net9.0\Builder Classic.runtimeconfig.json
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\bin\Debug\net9.0\Builder Classic.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\bin\Debug\net9.0\Builder Classic.pdb
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\Builder Classic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\Builder Classic.AssemblyInfoInputs.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\Builder Classic.AssemblyInfo.cs
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\Builder Classic.csproj.CoreCompileInputs.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\Builder Classic.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\refint\Builder Classic.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\Builder Classic.pdb
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\Builder Classic.genruntimeconfig.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\Builder Classic\obj\Debug\net9.0\ref\Builder Classic.dll

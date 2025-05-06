@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\adapter\\itarget\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|solutionrelative:itarget\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\adapter\\core\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|solutionrelative:core\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\adapter\\core\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|solutionrelative:core\\localstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\adapter\\adapter\\cloudstorageadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|solutionrelative:adapter\\cloudstorageadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\adapter\\adaptee\\cloudstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|solutionrelative:adaptee\\cloudstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\adapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC99CE7F-8A36-452C-85F2-E3CA5AB3DD4E}|Adapter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloudStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Adaptee\\CloudStorage.cs",
+              "RelativeDocumentMoniker": "Adaptee\\CloudStorage.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Adaptee\\CloudStorage.cs",
+              "RelativeToolTip": "Adaptee\\CloudStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:57:30.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Core\\LocalStorage.cs",
+              "RelativeDocumentMoniker": "Core\\LocalStorage.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Core\\LocalStorage.cs",
+              "RelativeToolTip": "Core\\LocalStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:51:26.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\ITarget\\IPhotoService.cs",
+              "RelativeDocumentMoniker": "ITarget\\IPhotoService.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\ITarget\\IPhotoService.cs",
+              "RelativeToolTip": "ITarget\\IPhotoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:49:32.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Core\\Photo.cs",
+              "RelativeDocumentMoniker": "Core\\Photo.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Core\\Photo.cs",
+              "RelativeToolTip": "Core\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:47:56.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:46:37.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloudStorageAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Adapter\\CloudStorageAdapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\CloudStorageAdapter.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Adapter\\Adapter\\CloudStorageAdapter.cs",
+              "RelativeToolTip": "Adapter\\CloudStorageAdapter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:59:07.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\bin\Debug\net8.0\Decorator.exe
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\bin\Debug\net8.0\Decorator.deps.json
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\bin\Debug\net8.0\Decorator.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\bin\Debug\net8.0\Decorator.pdb
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\Decorator.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\Decorator.pdb
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+C:\Users\Livia\Desktop\FCIM\TMPP\Decorator\obj\Debug\net8.0\ref\Decorator.dll

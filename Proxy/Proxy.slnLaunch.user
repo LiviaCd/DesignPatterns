@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Proxy.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\RemoteApi\\RemoteApi.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

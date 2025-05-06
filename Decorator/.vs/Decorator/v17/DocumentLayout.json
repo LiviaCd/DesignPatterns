@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\decorator\\decorators\\italicdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|solutionrelative:decorators\\italicdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\decorator\\decorators\\faintdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|solutionrelative:decorators\\faintdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\decorator\\decorators\\componentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|solutionrelative:decorators\\componentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\decorator\\components\\textcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|solutionrelative:components\\textcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\decorator\\decorators\\underlineddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|solutionrelative:decorators\\underlineddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\decorator\\decorators\\bolddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|solutionrelative:decorators\\bolddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|c:\\users\\livia\\desktop\\fcim\\tmpp\\decorator\\components\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8151D-D920-46AB-A2F5-D365EC9E1796}|Decorator.csproj|solutionrelative:components\\icomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItalicDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\ItalicDecorator.cs",
+              "RelativeDocumentMoniker": "Decorators\\ItalicDecorator.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\ItalicDecorator.cs",
+              "RelativeToolTip": "Decorators\\ItalicDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:50:01.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoldDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\BoldDecorator.cs",
+              "RelativeDocumentMoniker": "Decorators\\BoldDecorator.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\BoldDecorator.cs",
+              "RelativeToolTip": "Decorators\\BoldDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:16:33.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComponentDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\ComponentDecorator.cs",
+              "RelativeDocumentMoniker": "Decorators\\ComponentDecorator.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\ComponentDecorator.cs",
+              "RelativeToolTip": "Decorators\\ComponentDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:14:05.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Components\\IComponent.cs",
+              "RelativeDocumentMoniker": "Components\\IComponent.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Components\\IComponent.cs",
+              "RelativeToolTip": "Components\\IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:05:14.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:03:27.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Components\\TextComponent.cs",
+              "RelativeDocumentMoniker": "Components\\TextComponent.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Components\\TextComponent.cs",
+              "RelativeToolTip": "Components\\TextComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:08:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaintDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\FaintDecorator.cs",
+              "RelativeDocumentMoniker": "Decorators\\FaintDecorator.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\FaintDecorator.cs",
+              "RelativeToolTip": "Decorators\\FaintDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:30:08.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnderlinedDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\UnderlinedDecorator.cs",
+              "RelativeDocumentMoniker": "Decorators\\UnderlinedDecorator.cs",
+              "ToolTip": "C:\\Users\\Livia\\Desktop\\FCIM\\TMPP\\Decorator\\Decorators\\UnderlinedDecorator.cs",
+              "RelativeToolTip": "Decorators\\UnderlinedDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:51:58.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
